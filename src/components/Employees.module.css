@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    background-color: #91e5c0;
+    grid-column: col 3;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px
+}
+li {
+    list-style-type: none;
+}
